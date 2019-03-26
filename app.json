@@ -1,0 +1,17 @@
+{
+  "pages": [
+    "pages/home/index"
+  ],
+  "window": {
+    "enablePullDownRefresh": true,
+    "backgroundColor": "#007fff",
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#007fff",
+    "navigationBarTitleText": "WeChat",
+    "backgroundColor": "#007fff",
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#007fff",
+    "navigationBarTitleText": "小程序DEMO",
+    "navigationBarTextStyle": "white"
+  }
+}

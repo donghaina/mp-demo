@@ -1,0 +1,4 @@
+<!--pages/home/index.wxml-->
+<view class='page'>
+  <button open-type='share' class="btn-share">分享</button>
+</view>

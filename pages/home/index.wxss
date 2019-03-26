@@ -1,0 +1,17 @@
+/* pages/home/index.wxss */
+.btn-share::after {
+    border: none;
+}
+
+.btn-share {
+    display: block;
+    margin-top: 40rpx;
+    width: 100%;
+    box-sizing: border-box;
+    height: 80rpx;
+    line-height: 80rpx;
+    border-radius: 40rpx;
+    background-color: #007fff;
+    color: #ffffff;
+    font-size: 28rpx;
+}
